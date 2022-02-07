@@ -7,7 +7,7 @@ This repository contains all of the notes taken by [Ahsan](https://github.com/ah
 ## Table of Contents
 
 * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day1)
+  * [Day 1](/Week_1/Day_1)
 
 1. Item One
 2. Item Two
